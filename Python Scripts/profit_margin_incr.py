@@ -4,6 +4,9 @@ Created on Thu May 28 19:13:49 2020
 
 @author: Pratham
 """
+"""
+The profit margin for popular products was increased by 10% to determine the profit increase on targetting new customers.
+"""
 
 import numpy as np
 import pandas as pd
