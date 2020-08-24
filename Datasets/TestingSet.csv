@@ -1,0 +1,743 @@
+﻿Age,Purchase History,Customer Segment,Property Value
+63,86,Mass Customer,6
+50,69,Mass Customer,11
+46,10,Affluent Customer,5
+41,64,Affluent Customer,1
+55,34,Affluent Customer,9
+69,39,High Net Worth,7
+44,23,Mass Customer,7
+48,74,Mass Customer,5
+48,50,Mass Customer,10
+25,94,High Net Worth,6
+21,48,Mass Customer,8
+30,60,Mass Customer,11
+44,38,Mass Customer,10
+56,32,Mass Customer,8
+66,88,Affluent Customer,8
+27,61,Mass Customer,6
+44,83,Mass Customer,10
+66,2,High Net Worth,10
+52,11,Mass Customer,9
+27,44,Mass Customer,7
+22,26,Mass Customer,4
+43,5,Affluent Customer,8
+68,19,Mass Customer,2
+54,71,High Net Worth,11
+60,84,High Net Worth,7
+60,45,High Net Worth,10
+69,70,Mass Customer,2
+43,27,Affluent Customer,9
+45,48,Affluent Customer,1
+52,76,High Net Worth,10
+41,58,Mass Customer,8
+65,44,Mass Customer,2
+27,64,Affluent Customer,9
+67,73,High Net Worth,8
+54,52,Affluent Customer,8
+59,76,High Net Worth,5
+64,29,High Net Worth,12
+64,14,Affluent Customer,1
+26,85,High Net Worth,4
+43,59,Mass Customer,7
+70,12,Mass Customer,12
+42,60,Affluent Customer,8
+21,62,Affluent Customer,8
+27,55,High Net Worth,7
+25,87,Mass Customer,10
+41,75,Mass Customer,8
+48,51,Mass Customer,9
+54,64,Mass Customer,5
+49,31,Mass Customer,9
+53,70,High Net Worth,6
+21,22,High Net Worth,7
+24,69,Affluent Customer,11
+21,62,High Net Worth,5
+24,11,High Net Worth,7
+26,78,Mass Customer,10
+21,73,High Net Worth,9
+52,5,High Net Worth,9
+62,76,Affluent Customer,9
+46,98,High Net Worth,12
+59,0,Mass Customer,9
+64,36,Affluent Customer,7
+48,15,Mass Customer,10
+47,15,High Net Worth,6
+25,53,Mass Customer,12
+55,34,Mass Customer,8
+45,58,High Net Worth,12
+59,48,High Net Worth,10
+21,8,Affluent Customer,9
+70,49,Mass Customer,9
+49,24,Affluent Customer,2
+28,93,Affluent Customer,10
+42,34,Mass Customer,7
+43,84,Mass Customer,9
+68,94,Affluent Customer,8
+42,25,Mass Customer,5
+21,91,High Net Worth,12
+26,60,Mass Customer,6
+48,26,High Net Worth,10
+29,84,Mass Customer,4
+26,56,Mass Customer,2
+59,59,High Net Worth,6
+57,21,Mass Customer,9
+48,14,High Net Worth,8
+59,95,Mass Customer,1
+51,1,Mass Customer,8
+52,95,Mass Customer,7
+59,72,High Net Worth,11
+25,0,Mass Customer,2
+43,53,Affluent Customer,6
+23,45,Mass Customer,5
+42,21,High Net Worth,9
+68,2,Mass Customer,4
+23,57,Mass Customer,10
+51,86,High Net Worth,8
+45,3,Mass Customer,4
+64,71,Mass Customer,3
+67,66,Affluent Customer,1
+45,13,Mass Customer,1
+30,51,Affluent Customer,7
+58,78,Affluent Customer,2
+55,38,Mass Customer,7
+60,11,Mass Customer,4
+42,27,Affluent Customer,8
+50,89,Mass Customer,7
+30,90,Affluent Customer,5
+53,28,Mass Customer,4
+41,12,Mass Customer,3
+54,92,Affluent Customer,9
+45,6,High Net Worth,9
+70,40,Mass Customer,9
+55,82,Mass Customer,8
+51,38,Mass Customer,10
+51,58,High Net Worth,6
+49,39,Mass Customer,8
+53,60,Affluent Customer,3
+59,30,Affluent Customer,8
+51,61,Mass Customer,11
+59,54,Mass Customer,5
+64,6,Mass Customer,5
+57,74,Mass Customer,9
+44,89,Mass Customer,9
+63,16,Mass Customer,9
+42,4,Mass Customer,9
+69,27,High Net Worth,9
+25,23,Mass Customer,11
+51,60,Affluent Customer,2
+69,96,High Net Worth,3
+41,3,Mass Customer,11
+44,55,Mass Customer,10
+47,65,High Net Worth,3
+68,99,Affluent Customer,9
+65,42,Affluent Customer,9
+64,36,Mass Customer,11
+25,56,Affluent Customer,1
+65,72,Mass Customer,8
+28,54,High Net Worth,9
+68,51,Mass Customer,9
+70,92,Mass Customer,10
+45,71,Mass Customer,9
+55,39,High Net Worth,9
+46,78,Mass Customer,7
+46,34,Mass Customer,7
+28,65,High Net Worth,10
+49,26,High Net Worth,10
+47,67,Mass Customer,8
+24,74,Affluent Customer,9
+28,32,Affluent Customer,11
+50,16,High Net Worth,8
+51,47,Mass Customer,10
+48,6,Affluent Customer,3
+30,66,High Net Worth,9
+27,44,Affluent Customer,3
+54,55,High Net Worth,4
+61,84,Mass Customer,8
+68,44,Mass Customer,1
+22,2,Mass Customer,7
+44,31,Affluent Customer,7
+65,70,Mass Customer,7
+62,12,High Net Worth,9
+53,92,Affluent Customer,4
+53,32,Mass Customer,10
+23,12,Mass Customer,6
+64,28,High Net Worth,8
+23,50,Mass Customer,7
+57,8,Affluent Customer,2
+26,7,Affluent Customer,8
+41,66,Mass Customer,9
+54,62,Mass Customer,11
+43,91,Mass Customer,1
+56,54,High Net Worth,9
+66,46,Mass Customer,8
+57,48,Affluent Customer,4
+42,52,Mass Customer,10
+55,94,Mass Customer,9
+23,25,Mass Customer,8
+59,4,Mass Customer,8
+46,18,High Net Worth,9
+61,94,Mass Customer,9
+51,57,Affluent Customer,4
+63,29,Mass Customer,8
+70,2,Mass Customer,5
+53,8,Affluent Customer,10
+57,74,High Net Worth,3
+49,49,Affluent Customer,7
+42,59,High Net Worth,4
+46,57,High Net Worth,3
+45,90,Mass Customer,10
+53,85,Affluent Customer,2
+59,13,Mass Customer,9
+23,75,High Net Worth,12
+61,49,Mass Customer,12
+58,37,Mass Customer,3
+49,41,High Net Worth,10
+51,9,Mass Customer,9
+29,21,High Net Worth,6
+28,88,Mass Customer,9
+24,57,Affluent Customer,6
+51,81,Mass Customer,8
+47,82,Mass Customer,7
+69,70,Affluent Customer,7
+48,89,High Net Worth,8
+24,84,High Net Worth,7
+59,70,Mass Customer,3
+44,99,Mass Customer,10
+64,48,Mass Customer,9
+44,35,Affluent Customer,9
+54,90,Affluent Customer,3
+67,70,High Net Worth,12
+58,50,Affluent Customer,9
+44,64,Mass Customer,9
+55,81,Affluent Customer,9
+52,7,Mass Customer,12
+49,26,Mass Customer,8
+42,37,Mass Customer,2
+61,81,Mass Customer,7
+53,88,Mass Customer,7
+63,3,High Net Worth,3
+62,2,Affluent Customer,10
+44,96,Affluent Customer,7
+30,50,High Net Worth,1
+48,15,Affluent Customer,8
+62,89,Affluent Customer,6
+57,88,Mass Customer,7
+50,73,High Net Worth,8
+55,97,Mass Customer,8
+29,91,Mass Customer,8
+27,97,Mass Customer,9
+65,42,High Net Worth,8
+46,81,Mass Customer,7
+66,1,Affluent Customer,9
+61,63,High Net Worth,3
+49,21,Mass Customer,6
+29,39,High Net Worth,11
+55,28,Mass Customer,5
+52,95,Mass Customer,11
+28,73,High Net Worth,8
+42,96,High Net Worth,9
+63,3,Mass Customer,6
+65,74,Affluent Customer,8
+44,78,High Net Worth,7
+43,23,High Net Worth,6
+28,35,High Net Worth,9
+65,14,High Net Worth,1
+68,17,Mass Customer,4
+42,32,High Net Worth,6
+48,32,Mass Customer,4
+21,17,Affluent Customer,3
+61,46,High Net Worth,9
+23,64,Mass Customer,8
+42,33,Affluent Customer,2
+21,8,Mass Customer,7
+44,53,Affluent Customer,8
+64,18,Mass Customer,4
+45,80,High Net Worth,9
+51,93,Affluent Customer,3
+52,38,Mass Customer,10
+69,84,Affluent Customer,6
+56,17,Affluent Customer,7
+68,71,Mass Customer,8
+59,22,High Net Worth,6
+67,11,Mass Customer,1
+64,18,Mass Customer,8
+56,59,Mass Customer,6
+67,19,Affluent Customer,8
+49,59,Affluent Customer,11
+30,99,High Net Worth,7
+41,7,Mass Customer,10
+23,67,Mass Customer,2
+63,13,Mass Customer,11
+21,62,Mass Customer,4
+49,84,Mass Customer,8
+61,18,High Net Worth,7
+63,6,Mass Customer,9
+26,50,High Net Worth,4
+42,57,Mass Customer,11
+57,30,Mass Customer,9
+46,4,Mass Customer,10
+45,54,Affluent Customer,11
+60,7,High Net Worth,8
+46,60,High Net Worth,2
+46,34,Affluent Customer,6
+57,7,Mass Customer,6
+24,4,Affluent Customer,12
+56,85,Mass Customer,10
+25,82,Affluent Customer,6
+66,46,High Net Worth,7
+59,11,Mass Customer,8
+47,15,Affluent Customer,5
+27,51,Affluent Customer,3
+41,25,High Net Worth,6
+70,10,Mass Customer,9
+30,74,Mass Customer,9
+59,73,Mass Customer,12
+59,84,High Net Worth,5
+41,72,Affluent Customer,10
+44,53,Mass Customer,5
+53,91,Mass Customer,10
+65,56,Mass Customer,7
+42,80,Affluent Customer,11
+43,67,High Net Worth,7
+24,24,High Net Worth,7
+63,15,Affluent Customer,7
+25,84,Mass Customer,11
+66,65,Mass Customer,8
+62,48,High Net Worth,12
+57,57,Mass Customer,2
+67,57,Affluent Customer,3
+22,76,Affluent Customer,10
+29,33,Mass Customer,1
+50,97,Mass Customer,8
+29,3,Mass Customer,9
+27,87,Affluent Customer,5
+45,96,Mass Customer,7
+51,52,High Net Worth,9
+43,6,Affluent Customer,9
+46,23,Mass Customer,8
+45,58,Mass Customer,9
+63,72,Mass Customer,4
+42,61,Affluent Customer,8
+47,15,High Net Worth,7
+23,37,High Net Worth,8
+46,28,Affluent Customer,2
+68,47,Mass Customer,10
+23,16,Affluent Customer,8
+56,59,Mass Customer,2
+48,76,Mass Customer,7
+27,67,Affluent Customer,5
+62,54,High Net Worth,11
+54,83,High Net Worth,4
+43,61,Affluent Customer,10
+22,47,High Net Worth,10
+24,84,Mass Customer,4
+29,0,High Net Worth,5
+59,21,High Net Worth,6
+44,17,High Net Worth,3
+48,19,Affluent Customer,8
+69,7,Affluent Customer,12
+46,67,Mass Customer,3
+55,56,Mass Customer,7
+43,25,Mass Customer,11
+27,22,High Net Worth,10
+48,42,Mass Customer,8
+50,38,Mass Customer,7
+30,50,Mass Customer,7
+53,95,Mass Customer,9
+21,9,Affluent Customer,10
+64,99,Affluent Customer,5
+41,31,Mass Customer,10
+48,25,Mass Customer,10
+25,43,High Net Worth,8
+63,89,Mass Customer,9
+69,73,High Net Worth,7
+41,25,Mass Customer,7
+61,97,Mass Customer,2
+59,82,Mass Customer,7
+50,29,High Net Worth,4
+54,69,High Net Worth,6
+54,83,High Net Worth,3
+26,4,High Net Worth,1
+45,68,Affluent Customer,3
+45,72,Mass Customer,9
+55,56,Mass Customer,8
+24,55,Mass Customer,8
+43,39,Affluent Customer,7
+23,86,Affluent Customer,10
+68,59,High Net Worth,11
+60,69,Affluent Customer,4
+66,5,Mass Customer,5
+53,82,Mass Customer,10
+44,27,Mass Customer,9
+46,10,Affluent Customer,7
+60,68,High Net Worth,4
+45,30,Mass Customer,9
+46,94,Mass Customer,8
+44,6,Mass Customer,9
+47,4,Mass Customer,8
+21,57,High Net Worth,9
+44,81,High Net Worth,8
+66,94,Mass Customer,2
+49,91,Mass Customer,2
+56,87,High Net Worth,8
+21,79,Affluent Customer,4
+66,87,Mass Customer,6
+69,33,High Net Worth,9
+64,42,Mass Customer,8
+29,60,High Net Worth,12
+70,44,Affluent Customer,6
+66,11,High Net Worth,10
+56,26,Mass Customer,12
+67,97,Affluent Customer,8
+48,59,High Net Worth,9
+47,56,High Net Worth,11
+22,18,Mass Customer,4
+65,55,Mass Customer,3
+68,62,High Net Worth,8
+64,10,Mass Customer,7
+42,16,Mass Customer,6
+26,62,Affluent Customer,8
+42,41,High Net Worth,7
+23,37,Mass Customer,12
+55,80,High Net Worth,10
+44,78,Affluent Customer,5
+45,10,Affluent Customer,9
+70,68,Mass Customer,7
+22,60,High Net Worth,6
+43,0,Mass Customer,12
+48,99,Mass Customer,7
+47,37,High Net Worth,10
+29,42,High Net Worth,12
+41,34,High Net Worth,9
+44,83,High Net Worth,6
+21,12,Mass Customer,3
+62,55,Affluent Customer,6
+25,79,High Net Worth,8
+27,23,High Net Worth,7
+48,79,High Net Worth,3
+26,46,High Net Worth,9
+70,60,High Net Worth,6
+69,15,Mass Customer,3
+66,80,Mass Customer,8
+26,4,Mass Customer,10
+53,67,Affluent Customer,10
+65,87,Affluent Customer,9
+65,73,High Net Worth,6
+56,17,High Net Worth,10
+29,81,Mass Customer,1
+52,53,Mass Customer,8
+70,81,Mass Customer,9
+55,49,High Net Worth,7
+22,66,Mass Customer,7
+44,33,High Net Worth,9
+26,64,Mass Customer,9
+26,75,Mass Customer,8
+47,47,Mass Customer,10
+30,3,High Net Worth,8
+25,2,Affluent Customer,11
+25,9,Mass Customer,7
+69,26,Mass Customer,1
+24,32,Affluent Customer,6
+26,95,Affluent Customer,8
+46,83,High Net Worth,8
+41,1,Mass Customer,6
+24,44,Affluent Customer,8
+55,83,Mass Customer,5
+65,13,Mass Customer,8
+47,21,Affluent Customer,3
+62,6,Mass Customer,8
+42,57,Mass Customer,5
+26,29,High Net Worth,11
+24,63,Affluent Customer,9
+23,68,Affluent Customer,11
+47,45,Mass Customer,7
+59,93,Affluent Customer,7
+54,27,Affluent Customer,10
+65,33,Affluent Customer,9
+65,96,Mass Customer,8
+41,80,Mass Customer,6
+50,70,Mass Customer,8
+22,94,Mass Customer,8
+44,65,High Net Worth,7
+51,88,Mass Customer,3
+70,29,Affluent Customer,8
+69,37,Mass Customer,8
+63,63,Mass Customer,9
+57,62,Mass Customer,12
+64,47,Affluent Customer,11
+47,49,Mass Customer,7
+61,61,High Net Worth,9
+52,22,Mass Customer,4
+65,88,Mass Customer,2
+22,31,Mass Customer,7
+53,11,Mass Customer,9
+60,97,Affluent Customer,9
+27,51,Affluent Customer,9
+47,17,Affluent Customer,7
+59,30,Mass Customer,7
+58,86,Mass Customer,5
+45,3,Mass Customer,8
+23,88,Mass Customer,6
+66,96,Mass Customer,5
+70,23,High Net Worth,1
+42,97,High Net Worth,10
+66,31,Affluent Customer,6
+70,70,Affluent Customer,10
+54,18,Affluent Customer,8
+52,96,High Net Worth,7
+24,48,Affluent Customer,3
+58,82,Mass Customer,11
+44,51,Affluent Customer,8
+25,93,Affluent Customer,9
+62,58,High Net Worth,5
+44,29,Mass Customer,7
+23,98,Mass Customer,9
+62,86,Mass Customer,5
+69,11,High Net Worth,12
+43,25,Affluent Customer,5
+52,12,Mass Customer,3
+29,73,High Net Worth,11
+61,94,Affluent Customer,8
+60,13,Mass Customer,7
+60,41,Mass Customer,7
+44,52,High Net Worth,8
+46,50,Mass Customer,2
+61,3,High Net Worth,10
+64,45,Affluent Customer,6
+64,20,Mass Customer,8
+58,73,High Net Worth,9
+68,8,Mass Customer,10
+54,99,Mass Customer,8
+24,36,Mass Customer,9
+50,93,Mass Customer,12
+24,70,Affluent Customer,7
+42,98,Mass Customer,1
+43,58,High Net Worth,2
+26,67,Mass Customer,8
+28,92,High Net Worth,4
+28,53,Affluent Customer,8
+42,42,Mass Customer,8
+47,70,Affluent Customer,9
+66,96,Mass Customer,5
+43,68,High Net Worth,4
+29,91,Mass Customer,9
+70,75,High Net Worth,3
+63,31,Mass Customer,8
+59,12,High Net Worth,12
+46,8,High Net Worth,3
+46,39,High Net Worth,11
+55,97,Mass Customer,8
+47,44,Mass Customer,9
+67,37,Affluent Customer,7
+69,99,High Net Worth,11
+45,27,Mass Customer,8
+21,64,Mass Customer,7
+48,57,Affluent Customer,8
+49,28,Affluent Customer,2
+45,47,Mass Customer,3
+70,74,High Net Worth,11
+57,82,Mass Customer,2
+55,8,Affluent Customer,7
+54,26,Mass Customer,10
+21,15,Affluent Customer,9
+54,71,Mass Customer,9
+42,12,Mass Customer,4
+48,71,Mass Customer,8
+55,36,Mass Customer,6
+43,40,Affluent Customer,11
+51,54,Mass Customer,9
+50,83,Mass Customer,9
+23,37,High Net Worth,10
+27,75,Mass Customer,7
+64,28,Affluent Customer,11
+59,60,Affluent Customer,9
+23,87,Mass Customer,10
+28,40,Mass Customer,5
+29,35,Mass Customer,2
+30,11,Mass Customer,7
+54,68,Mass Customer,7
+57,52,High Net Worth,7
+45,48,High Net Worth,9
+46,68,Mass Customer,9
+22,87,Mass Customer,2
+44,43,Affluent Customer,10
+58,25,Mass Customer,7
+45,99,Mass Customer,9
+49,7,Affluent Customer,12
+70,33,Mass Customer,2
+60,45,Mass Customer,9
+55,35,Mass Customer,8
+46,87,Mass Customer,7
+51,80,Affluent Customer,5
+24,22,Affluent Customer,6
+47,32,Mass Customer,11
+42,79,High Net Worth,4
+47,51,Affluent Customer,3
+70,6,Affluent Customer,1
+60,37,High Net Worth,7
+21,89,Affluent Customer,4
+30,4,Affluent Customer,8
+55,11,Mass Customer,10
+67,47,High Net Worth,8
+27,46,High Net Worth,10
+54,38,Affluent Customer,10
+48,40,Mass Customer,8
+24,46,Mass Customer,12
+56,35,Affluent Customer,5
+65,55,High Net Worth,10
+28,98,Mass Customer,9
+26,66,Affluent Customer,10
+64,89,High Net Worth,10
+63,48,High Net Worth,12
+28,32,Mass Customer,10
+46,93,Affluent Customer,6
+47,4,Mass Customer,10
+66,79,High Net Worth,6
+65,21,Mass Customer,12
+69,61,Affluent Customer,9
+51,1,Mass Customer,2
+54,47,Mass Customer,12
+46,25,Mass Customer,11
+69,79,Mass Customer,5
+68,12,High Net Worth,7
+56,83,Affluent Customer,9
+59,46,Affluent Customer,6
+52,94,Affluent Customer,10
+42,39,Affluent Customer,7
+29,72,High Net Worth,4
+68,61,High Net Worth,5
+60,38,Mass Customer,8
+55,1,Affluent Customer,10
+42,70,Affluent Customer,8
+54,46,Mass Customer,8
+43,36,Mass Customer,7
+47,11,Mass Customer,8
+49,43,Mass Customer,6
+25,21,Mass Customer,9
+57,60,High Net Worth,7
+28,67,Mass Customer,12
+58,24,Affluent Customer,4
+47,29,High Net Worth,11
+53,66,Mass Customer,10
+58,56,High Net Worth,5
+57,79,Mass Customer,7
+41,79,Affluent Customer,8
+69,7,Mass Customer,10
+26,66,Mass Customer,8
+41,47,Affluent Customer,12
+62,79,High Net Worth,7
+47,21,Mass Customer,4
+26,22,Mass Customer,5
+25,60,Mass Customer,8
+23,62,High Net Worth,7
+63,66,High Net Worth,4
+61,46,High Net Worth,2
+64,63,Mass Customer,9
+22,62,Mass Customer,8
+42,24,Affluent Customer,7
+67,32,Affluent Customer,2
+61,88,Affluent Customer,10
+62,47,High Net Worth,6
+41,37,High Net Worth,6
+67,54,Affluent Customer,7
+30,32,Mass Customer,8
+56,99,High Net Worth,10
+59,11,High Net Worth,11
+62,87,Mass Customer,9
+46,95,Mass Customer,11
+53,47,Mass Customer,12
+59,76,High Net Worth,3
+67,37,High Net Worth,6
+46,50,Mass Customer,10
+46,88,Affluent Customer,7
+25,58,Affluent Customer,8
+64,57,Mass Customer,11
+26,30,High Net Worth,10
+54,44,Affluent Customer,4
+47,63,Mass Customer,6
+23,22,Affluent Customer,3
+56,48,Mass Customer,7
+26,52,Mass Customer,9
+63,27,Affluent Customer,9
+49,64,Affluent Customer,6
+64,57,Mass Customer,1
+48,51,Mass Customer,12
+21,11,High Net Worth,3
+59,5,Mass Customer,8
+61,47,Mass Customer,9
+68,38,Affluent Customer,10
+52,5,High Net Worth,9
+50,1,Mass Customer,7
+56,53,Mass Customer,10
+24,48,Mass Customer,6
+47,84,Affluent Customer,8
+47,77,Mass Customer,7
+53,27,Affluent Customer,5
+57,57,Mass Customer,7
+63,65,Mass Customer,5
+45,49,Mass Customer,10
+29,7,Affluent Customer,8
+60,39,Affluent Customer,5
+59,16,High Net Worth,9
+41,14,High Net Worth,2
+70,78,High Net Worth,2
+62,45,High Net Worth,6
+30,59,Mass Customer,9
+47,2,Mass Customer,10
+61,47,Mass Customer,4
+63,61,Mass Customer,9
+22,75,High Net Worth,4
+42,84,High Net Worth,7
+27,67,Affluent Customer,9
+69,65,Mass Customer,5
+44,98,Affluent Customer,10
+45,18,Mass Customer,4
+60,5,Mass Customer,4
+57,79,Mass Customer,6
+56,16,High Net Worth,8
+46,61,Mass Customer,8
+66,5,Mass Customer,7
+49,63,Affluent Customer,3
+46,90,Mass Customer,10
+28,91,Mass Customer,9
+28,35,Mass Customer,4
+26,13,High Net Worth,11
+44,26,Mass Customer,7
+54,67,Mass Customer,7
+43,23,Mass Customer,3
+58,74,Mass Customer,11
+26,14,High Net Worth,12
+51,12,Mass Customer,7
+25,59,Mass Customer,11
+56,83,Mass Customer,9
+22,78,Mass Customer,8
+53,62,Mass Customer,4
+45,0,Mass Customer,9
+51,82,Affluent Customer,10
+45,42,Mass Customer,10
+26,33,Affluent Customer,8
+57,6,Mass Customer,6
+60,74,High Net Worth,12
+69,3,High Net Worth,8
+53,30,Affluent Customer,9
+21,43,Affluent Customer,6
+22,82,Mass Customer,10
+54,37,Mass Customer,5
+52,63,Affluent Customer,6
+53,15,Mass Customer,9
+43,77,Mass Customer,5
+28,71,Mass Customer,8
+69,83,Affluent Customer,1
+64,45,Mass Customer,5
+69,5,Mass Customer,11
+61,41,Mass Customer,8
+23,44,Mass Customer,7
+66,60,Mass Customer,6
+46,59,Mass Customer,3
+47,32,Mass Customer,3
+61,38,Mass Customer,4
+30,15,Mass Customer,12
+61,60,Affluent Customer,7
+66,17,Affluent Customer,2
+68,30,Mass Customer,2
+65,56,Mass Customer,9
