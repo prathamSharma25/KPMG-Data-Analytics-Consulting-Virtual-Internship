@@ -4,6 +4,10 @@ Created on Fri May 29 17:54:11 2020
 
 @author: Pratham
 """
+"""
+A simple regression model was applied to predict the profits that may be earned by atrgetting the new customers.
+Model is trained based on historical data provided.
+"""
 
 import numpy as np
 import pandas as pd
