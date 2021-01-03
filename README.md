@@ -5,7 +5,7 @@ All datasets used for the assigned tasks can be found in the Datasets folder. So
 
 The final presentation and Tableau Packaged Workbook has also been included. The dashboard prepared for the presentation and other Tableau Worksheets can be found in Sprocket Customers.twbx file. The TargetCustomers.xlsx file contains details about the new customers that must be targetted in the future.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 Pratham Sharma
 
